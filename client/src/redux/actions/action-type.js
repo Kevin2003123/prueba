@@ -1,0 +1,7 @@
+export const GET_USERS = "GET_USERS";
+export const GET_USERS2 = "GET_USERS2";
+export const GET_CONTACTS = "GET_CONTACTS";
+export const UPDATE_CONTACTS = "UPDATE_CONTACTS";
+export const DELETE_CONTACT = "DELETE_CONTACT";
+export const INSERT_CONTACT = "INSERT_CONTACT";
+export const GET_CONTACT_BY_ID = "GET_CONTACT_BY_ID";
